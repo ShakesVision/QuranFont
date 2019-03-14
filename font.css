@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'quran';
-	src: url('https://cdn.jsdelivr.net/gh/ShakesVision/QuranFont/quran.ttf') format('truetype');
+	src: url('https://cdn.jsdelivr.net/gh/ShakesVision/QuranFont/pdms-saleem-quranfont.ttf') format('truetype');
 }
 
 /* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_7780">Text with this font applied</p> */
